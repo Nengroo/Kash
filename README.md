@@ -86,33 +86,43 @@ Factory Energy Management by Steam Energy Cluster Modeling in Paper-Making.
 Sangkeum Lee, Sarvar Hussain Nengroo, Yeonji Jung, Seonhyeog Kim, Soonhyun Kwon, Youngmee Shin, Joahyoung Lee, Yoonmee Doh, Taewook Heo, Dongsoo Har
 11th International Conference on Smart Grid, June 04-07, 2023, Paris/France icsmartgrid 2023
 DOI: 10.1109/icSmartGrid58556.2023.10171060.
+
 2) Power management in smart residential building with deep learning model for occupancy detection by usage pattern of electric appliances.
 Sangkeum Lee, Sarvar Hussain Nengroo, Hojun Jin, Yoonmee Doh, Chungho Lee, Taewook Heo, Dongsoo Har
 2022 7th International Conference on Renewable Energy and Conservation (ICREC 2022) November 18-20, 2022, Paris, France
+
 3) Power Management of Microgrid Integrated with Electric Vehicles in Residential Parking Station
 Hojun Jin, Sarvar Hussain Nengroo, Sangkeum Lee, and Dongsoo Har
 2021 10th International Conference on Renewable Energy Research and Application (ICRERA)  DOI: 10.1109/ICRERA52334.2021.9598765. 
+
 4) Smart Metering System Capable of Anomaly Detection by Bi-directional LSTM Autoencoder
 Sangkeum Lee, Hojun Jin, Sarvar Hussain Nengroo, Yoonmee Doh, Chungho Lee, Taewook Heo, Dongsoo Har
 2022 IEEE International Conference on Consumer Electronics (ICCE) DOI: 10.1109/ICCE53296.2022.9730398
+
 5) Off-Policy Reinforcement Learning with Loss Function Weighted by Temporal Difference Error
 Bumgeun Park, Taeyoung Kim, Woohyeon Moon, Sarvar Hussain Nengroo, and Dongsoo Har
 International Conference on Intelligent Computing (ICIC 2023): Advanced Intelligent Computing Technology and Applications https://doi.org/10.1007/978-981-99-4761-4_51.
+
 6) A Smarter Energy Management System for Lithium-ion Battery and Super Capacitor Based Hybrid Energy Storage System
 Muhammad Umair Ali, Sarvar Hussain Nengroo, Sadam Hussain, and Hee-Je Kim
 UW Journal of Science and Technology Vol. 3 (2019) 35-40 ISSN: 2523-0123.
+
 7) Optimal Scheduling of Energy Storage for Power System with Capability of Sensing Short-term Future PV Power Production 
 Sarvar Hussain Nengroo, Sangkeum Lee, Hojun Jin and Dongsoo Har
 2021 11th International Conference on Power and Energy Systems (ICPES) DOI: 10.1109/ICPES53652.2021.9683905. 
+
 8) Reinforcement Learning for Navigation of Mobile Robot with LiDAR
 Inhwan Kim, Sarvar Hussain Nengroo, and Dongsoo Har
 2021 5th International Conference on Electronics, Communication and Aerospace Technology (ICECA) DOI: 10.1109/ICECA52323.2021.9675949. 
+
 9) P2P Power Trading between Nanogrid Clusters Exploiting Electric Vehicles and Renewable Energy Sources
 Sangkeum Lee, Hojun Jin, Sarvar Hussain Nengroo, and Dongsoo Har
 2021 International Conference on Computational Science and Computational Intelligence, CSCI 2021 https://doi.org/10.1109/CSCI54926.2021.00349
+
 10) Power Management in Smart Residential Building with Deep Learning Model for Occupancy Detection by Usage Pattern of Electric Appliances
 Sangkeum Lee, Hojun Jin, Sarvar Hussain Nengroo, Yoonmee Doh, Chungho Lee, Taewook Heo, and Dongsoo Har
 IECC '23: Proceedings of the 2023 5th International Electronics Communication Conference https://doi.org/10.1145/3616480.3616492
+
 11) Path planning of cleaning robot with reinforcement learning
 Woohyeon Moon, Bumgeun Park, Sarvar Hussain Nengroo, Taeyoung Kim, Dongsoo Har
 2022 IEEE International Symposium on Robotic and Sensors Environments (ROSE) 10.1109/ROSE56499.2022.9977430
