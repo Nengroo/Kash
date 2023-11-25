@@ -10,7 +10,7 @@ Major: Graduate School of Mobility
 VIL(Vehicular Intelligence) Lab
 
 **Exchange Student**
-Technical University of Denmark
+Technical University of Denmark.
 Major: DTU Engineering Technology
 
 **Master of Science (MS)**
