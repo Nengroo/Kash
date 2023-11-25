@@ -28,7 +28,7 @@ Hojun Jin, Sangkeum Lee, Sarvar Hussain Nengroo, Taewook Heo, Yoonmee Doh, Chung
 Energy and Buildings https://doi.org/10.1016/j.enbuild.2023.113290
 4) Reinforcement Learning-Based Cooperative P2P Power Trading between DC Nanogrid Clusters with Wind and PV Energy Resources
 Sangkeum Lee, Sarvar Hussain Nengroo, Hojun Jin, Taewook Heo, Yoonmee Doh, Chungho Lee, Dongsoo Har
-Under Review in IEEE Transaction in Smart Grids
+Under Review 
 5) Application of Binary Slime Mould Algorithm for Solving Unit Commitment Problem
 Md Sayed Hasan Rifat, Md Ashaduzzaman Niloy, Mutasim Fuad Rizvi, Ashik Ahmed, Razzaqul Ahshan, Sarvar Hussain Nengroo, Sangkeum Lee
 IEEE Access 10.1109/ACCESS.2023.3273928   
